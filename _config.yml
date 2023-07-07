@@ -21,12 +21,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://documents.imdadareeph.com'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://avatars.githubusercontent.com/u/5298124?v=4"
 
 # Pagination
 paginate: 5
@@ -40,6 +40,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: Tech
+  url: /tech/
 
 # Footer nav
 navigation_footer:
